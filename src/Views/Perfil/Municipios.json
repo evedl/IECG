@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "label": "Abasolo",
+    "poblacion": "92,040"
+  },
+  {
+    "id": 2,
+    "label": "Acámbaro",
+    "poblacion": "108,697"
+  },
+  {
+    "id": 3,
+    "label": "San Miguel de Allende",
+    "poblacion": "174,615"
+  },
+  {
+    "id": 4,
+    "label": "Apaseo el Alto",
+    "poblacion": "63,392"
+  },
+  {
+    "id": 5,
+    "label": "Apaseo el Grande",
+    "poblacion": "117,883"
+  },
+  {
+    "id": 6,
+    "label": "Atarjea",
+    "poblacion": "5,296"
+  },
+  {
+    "id": 7,
+    "label": "Celaya",
+    "poblacion": "521,169"
+  },
+  {
+    "id": 8,
+    "label": "Manuel Doblado",
+    "poblacion": "41,240"
+  },
+  {
+    "id": 9,
+    "label": "Comonfort",
+    "poblacion": "82,216"
+  },
+  {
+    "id": 10,
+    "label": "Coroneo",
+    "poblacion": "11,083"
+  },
+  {
+    "id": 11,
+    "label": "Cortazar",
+    "poblacion": "97,928"
+  },
+  {
+    "id": 12,
+    "label": "Cuerámaro",
+    "poblacion": "30,857"
+  },
+  {
+    "id": 13,
+    "label": "Doctor Mora",
+    "poblacion": "27,390"
+  },
+  {
+    "id": 14,
+    "label": "Dolores Hidalgo Cuna de la Independencia Nacional",
+    "poblacion": "163,038"
+  },
+  {
+    "id": 15,
+    "label": "Guanajuato",
+    "poblacion": "194,500"
+  },
+  {
+    "id": 16,
+    "label": "Huanímaro",
+    "poblacion": "21,128"
+  },
+  {
+    "id": 17,
+    "label": "Irapuato",
+    "poblacion": "592,953"
+  },
+  {
+    "id": 18,
+    "label": "Jaral del Progreso",
+    "poblacion": "38,782"
+  },
+  {
+    "id": 19,
+    "label": "Jerécuaro",
+    "poblacion": "49,517"
+  },
+  {
+    "id": 20,
+    "label": "León",
+    "poblacion": "1,721,215"
+  },
+  {
+    "id": 21,
+    "label": "Moroleón",
+    "poblacion": "47,261"
+  },
+  {
+    "id": 22,
+    "label": "Ocampo",
+    "poblacion": "26,383"
+  },
+  {
+    "id": 23,
+    "label": "Pénjamo",
+    "poblacion": "154,960"
+  },
+  {
+    "id": 24,
+    "label": "Pueblo Nuevo",
+    "poblacion": "12,403"
+  },
+  {
+    "id": 25,
+    "label": "Purísima del Rincón",
+    "poblacion": "83,842"
+  },
+  {
+    "id": 26,
+    "label": "Romita",
+    "poblacion": "65,766"
+  },
+  {
+    "id": 27,
+    "label": "Salamanca",
+    "poblacion": "273,417"
+  },
+  {
+    "id": 28,
+    "label": "Salvatierra",
+    "poblacion": "94,126"
+  },
+  {
+    "id": 29,
+    "label": "San Diego de la Unión",
+    "poblacion": "41,054"
+  },
+  {
+    "id": 30,
+    "label": "San Felipe",
+    "poblacion": "119,793"
+  },
+  {
+    "id": 31,
+    "label": "San Francisco del Rincón",
+    "poblacion": "130,871"
+  },
+  {
+    "id": 32,
+    "label": "San José Iturbide",
+    "poblacion": "89,558"
+  },
+  {
+    "id": 33,
+    "label": "San Luis de la Paz",
+    "poblacion": "128,536"
+  },
+  {
+    "id": 34,
+    "label": "Santa Catarina",
+    "poblacion": "5,723"
+  },
+  {
+    "id": 35,
+    "label": "Santa Cruz de Juventino Rosas",
+    "poblacion": "82,340"
+  },
+  {
+    "id": 36,
+    "label": "Santiago Maravatío",
+    "poblacion": "6,714"
+  },
+  {
+    "id": 37,
+    "label": "Silao de la Victoria",
+    "poblacion": "203,556"
+  },
+  {
+    "id": 38,
+    "label": "Tarandacuao",
+    "poblacion": "11,304"
+  },
+  {
+    "id": 39,
+    "label": "Tarimoro",
+    "poblacion": "35,905"
+  },
+  {
+    "id": 40,
+    "label": "Tierra Blanca",
+    "poblacion": "20,007"
+  },
+  {
+    "id": 41,
+    "label": "Uriangato",
+    "poblacion": "61,494"
+  },
+  {
+    "id": 42,
+    "label": "Valle de Santiago",
+    "poblacion": "150,054"
+  },
+  {
+    "id": 43,
+    "label": "Victoria",
+    "poblacion": "21,253"
+  },
+  {
+    "id": 44,
+    "label": "Villagrán",
+    "poblacion": "65,791"
+  },
+  {
+    "id": 45,
+    "label": "Xichú",
+    "poblacion": "11,143"
+  },
+  {
+    "id": 46,
+    "label": "Yuriria",
+    "poblacion": "68,741"
+  }
+]

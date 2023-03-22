@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a2d6882-a6e7-4c00-8c6b-c965c1cc1a4b" name="Changes" comment="msg =&gt; erros">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Trayectoria/AddTrayectoria.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Trayectoria/AddTrayectoria.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Trayectoria/TrayectoriaCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Trayectoria/TrayectoriaCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/User/UserCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/User/UserCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Features/Profile/ProfileSlice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Features/Profile/ProfileSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/UserService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/UserService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/Perfil/LocationAndTags.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Perfil/LocationAndTags.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/Perfil/Trayectoria.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Perfil/Trayectoria.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="dev" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29H2esUIAIJuUgiGYOzQHz85rWq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/david/Documents/GitHub/IECG",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "yarn",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/david/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/221.6008.13/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Features/Feedback" />
+      <recent name="$PROJECT_DIR$/src/Views/Perfil" />
+      <recent name="$PROJECT_DIR$/src/Features/Confirmation" />
+      <recent name="C:\Users\David Cano\Documents\GitHub\IECG\src\Features" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Views/Perfil" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Features/Users" />
+      <recent name="$PROJECT_DIR$/src/Service" />
+      <recent name="$PROJECT_DIR$/src/Views/Home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a2d6882-a6e7-4c00-8c6b-c965c1cc1a4b" name="Changes" comment="" />
+      <created>1652755790073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652755790073</updated>
+      <workItem from="1652755792876" duration="1042000" />
+      <workItem from="1652762466158" duration="2200000" />
+      <workItem from="1652798281644" duration="4259000" />
+      <workItem from="1655112916762" duration="4337000" />
+      <workItem from="1655265445376" duration="5462000" />
+      <workItem from="1655285811754" duration="603000" />
+      <workItem from="1655436332015" duration="401000" />
+      <workItem from="1655605348547" duration="6839000" />
+      <workItem from="1656991096818" duration="1346000" />
+      <workItem from="1657038337682" duration="8570000" />
+      <workItem from="1657163597229" duration="6561000" />
+      <workItem from="1657213538631" duration="4465000" />
+      <workItem from="1657254324068" duration="7563000" />
+      <workItem from="1657515526979" duration="1366000" />
+      <workItem from="1657519315179" duration="71000" />
+      <workItem from="1657520405675" duration="1480000" />
+      <workItem from="1657748907444" duration="314000" />
+      <workItem from="1657749234496" duration="35000" />
+      <workItem from="1657853729146" duration="4273000" />
+      <workItem from="1657865640405" duration="337000" />
+      <workItem from="1657865990556" duration="16000" />
+      <workItem from="1657866021216" duration="43000" />
+      <workItem from="1657866079830" duration="15000" />
+      <workItem from="1657866105453" duration="28000" />
+      <workItem from="1657866143698" duration="61000" />
+      <workItem from="1657866219016" duration="84000" />
+      <workItem from="1657921206263" duration="598000" />
+      <workItem from="1658017651468" duration="486000" />
+      <workItem from="1658018909476" duration="10000" />
+      <workItem from="1658154443657" duration="11004000" />
+      <workItem from="1658194927267" duration="168000" />
+      <workItem from="1658196825963" duration="8000" />
+      <workItem from="1658196844362" duration="6076000" />
+      <workItem from="1658243071180" duration="1454000" />
+      <workItem from="1658293300555" duration="3736000" />
+      <workItem from="1658329806886" duration="769000" />
+      <workItem from="1658358754920" duration="4014000" />
+      <workItem from="1658364923684" duration="3858000" />
+      <workItem from="1658768552409" duration="573000" />
+      <workItem from="1658769137199" duration="4888000" />
+      <workItem from="1658776679581" duration="87000" />
+      <workItem from="1658847877882" duration="9368000" />
+      <workItem from="1658766373729" duration="628000" />
+      <workItem from="1659107102652" duration="10646000" />
+      <workItem from="1659184888224" duration="1743000" />
+      <workItem from="1659454334653" duration="10076000" />
+    </task>
+    <task id="LOCAL-00001" summary="Send and confirm Email">
+      <created>1657047218509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657047218509</updated>
+    </task>
+    <task id="LOCAL-00002" summary="identidad">
+      <created>1657865701822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657865701822</updated>
+    </task>
+    <task id="LOCAL-00003" summary="identidad interfaces">
+      <created>1658170526774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658170526774</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tags, ubicacion service">
+      <created>1658203864607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658203864607</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add trayectoria">
+      <created>1658297128501</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658297128501</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Trayectoria sort?">
+      <created>1658367329869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658367329869</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Acervo?">
+      <created>1658854831069</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658854831069</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Saltos de linea">
+      <created>1659109080202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659109080202</updated>
+    </task>
+    <task id="LOCAL-00009" summary="justify">
+      <created>1659110231579</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659110231579</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Complete profile">
+      <created>1659122381280</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659122381280</updated>
+    </task>
+    <task id="LOCAL-00011" summary="msg =&gt; erros">
+      <created>1659185916662</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659185916662</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Send and confirm Email" />
+    <MESSAGE value="identidad" />
+    <MESSAGE value="identidad interfaces" />
+    <MESSAGE value="tags, ubicacion service" />
+    <MESSAGE value="add trayectoria" />
+    <MESSAGE value="Trayectoria sort?" />
+    <MESSAGE value="Acervo?" />
+    <MESSAGE value="Saltos de linea" />
+    <MESSAGE value="justify" />
+    <MESSAGE value="Complete profile" />
+    <MESSAGE value="msg =&gt; erros" />
+    <option name="LAST_COMMIT_MESSAGE" value="msg =&gt; erros" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Components/Publications/PaginationPublications.jsx</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
